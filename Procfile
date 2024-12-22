@@ -1,1 +1,1 @@
-work = python cs.py
+worker: python cs.py
